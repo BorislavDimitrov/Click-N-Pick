@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Clink-N-Pick</h1>
+<h1 align="center" id="title">Click-N-Pick</h1>
 
 <p align="center"><img src="https://res.cloudinary.com/dtaqyp4b6/image/upload/v1719127716/logo_fmzn6i.jpg" alt="project-image"></p>
 
