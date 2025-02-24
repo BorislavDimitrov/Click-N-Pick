@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
-import NavbarLogo from "../img/navbarLogo.jpg";
+import NavbarLogo from "../img/navbarLogo.png";
 import { GetUserImageUrl, RemoveUserImageUrl } from "../Utility/user";
 import { isAdmin } from "../Utility/auth";
 import { Bars3BottomRightIcon, XMarkIcon } from "@heroicons/react/24/solid";
